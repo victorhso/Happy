@@ -1,5 +1,3 @@
-/*O que é uma regra CSS?*/
-
 * {
   margin: 0;
   padding: 0;
@@ -9,16 +7,16 @@
 body {
   height: 100vh;
   color: white;
-  background: #EBF2F5;
+  background: #ebf2f5
 }
 
 :root {
-    font-size: 62.5%;
-  }
+  font-size: 62.5%;
+}
 
 body,
 input,
 button,
 textarea {
-  font: 400 1.8rem/1 "Nunito", sans-serif;
+  font: 400 18px/1 "Nunito", sans-serif;
 }
