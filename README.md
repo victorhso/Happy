@@ -1,11 +1,11 @@
-# HappyNLW3
+# Next Level Week
 
 # Happy
 
 ![happy](https://user-images.githubusercontent.com/60578339/96369950-accbb380-1132-11eb-9fe8-c431b228b360.png)
 
 
-__🚀 Tecnologias__
+# __🚀 Tecnologias__
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - handlebars
 
 
-__💻 Projeto__
+# __💻 Projeto__
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜
 
