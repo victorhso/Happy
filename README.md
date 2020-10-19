@@ -4,6 +4,8 @@
 
 ![happy](https://user-images.githubusercontent.com/60578339/96369950-accbb380-1132-11eb-9fe8-c431b228b360.png)
 
+![Tela2](https://user-images.githubusercontent.com/60578339/96493386-4bcbda80-121b-11eb-9de3-bf4761201388.png)
+
 
 # __🚀 Tecnologias__
 
